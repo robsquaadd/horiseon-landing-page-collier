@@ -6,4 +6,4 @@ This page leads to the Horiseon home page which details their SEO business.
 ![Screenshot-2](./assets/images/Horiseon-Screenshot-2.png)
 ![Screenshot-3](./assets/images/Horiseon-Screenshot-3.png)
 
-![Link]()
+![Link](https://robsquaadd.github.io/weekly-challenge-1-collier/)
