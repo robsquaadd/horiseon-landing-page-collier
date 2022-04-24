@@ -16,6 +16,4 @@ The changes that we made to this page include but are not limited to:
 ![Screenshot-2](./assets/images/Horiseon-Screenshot-2.png)
 ![Screenshot-3](./assets/images/Horiseon-Screenshot-3.png)
 
-![Link](https://robsquaadd.github.io/weekly-challenge-1-collier/)
-
-https://robsquaadd.github.io/weekly-challenge-1-collier/
+[Link to Horiseon Homepage](https://robsquaadd.github.io/weekly-challenge-1-collier/)
